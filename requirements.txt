@@ -1,0 +1,8 @@
+numpy==1.18.5
+streamlit==0.65.2
+Pillow==7.2.0
+opencv-contrib-python==4.4.0.42
+torch==1.6.0
+retinaface-pytorch==0.0.6
+facemask-detection==0.0.4
+albumentations==0.4.6
